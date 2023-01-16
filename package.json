@@ -1,0 +1,16 @@
+{
+  "name": "202301-w1ch1-ariadna-frias",
+  "version": "1.0.0",
+  "description": "Challenge1",
+  "main": "pasapalabra.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Pre-curso",
+    "ISDI",
+    "Challenge1"
+  ],
+  "author": "Ariadna Frias",
+  "license": "ISC"
+}
